@@ -1,12 +1,13 @@
-.navbar .nav-pills >li >a {
-    color: #005580;
+a, a:hover, a:visited{
+  text-decoration: none;
+  color: white;
+}
+.nav-pills > li > a:hover {
+      background-color: black;
  }
-   .navbar .nav-pills > li > a:hover {
-      background-color: #0088cc;
- }
- .navbar .nav-pills .active > a {
-    background-color:#ccc;
-    color:#0088cc;
+ .nav-pills .active > a ,li:active, li:hover{
+    background-color:none;
+    color:white;
 }
 .club-list{
   width: 1000px;
@@ -19,7 +20,8 @@
 }
 .tab-pane {
   padding-top: 25px;
-}.nav-tabs > li > a {
+}
+.nav-tabs > li > a {
 -webkit-border-radius: 0;
 -moz-border-radius: 0;
 border-radius: 0;
