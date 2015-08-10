@@ -7,7 +7,9 @@ a, a:hover, a:visited{
  }
  .nav-pills .active > a ,li:active, li:hover{
     background-color:none;
-    color:white;
+}
+.nav-pills > .active > a, .nav-pills > .active > a:hover {
+    text-decoration: none !important;
 }
 .club-list{
   width: 1000px;
