@@ -11,17 +11,13 @@ a, a:hover, a:visited{
 .nav-pills > .active > a, .nav-pills > .active > a:hover {
     text-decoration: none !important;
 }
-.club-list{
-  width: 1000px;
-  margin:auto;
-}
 .tab{
   width:200px;
   border: solid 1px;
   border-color: white;
 }
 .tab-pane {
-  padding-top: 25px;
+  padding-top: 15px;
 }
 .nav-tabs > li > a {
 -webkit-border-radius: 0;
