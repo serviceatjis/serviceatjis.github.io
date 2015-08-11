@@ -16,9 +16,6 @@ a, a:hover, a:visited{
   border: solid 1px;
   border-color: white;
 }
-.tab-pane {
-  padding-top: 15px;
-}
 .nav-tabs > li > a {
 -webkit-border-radius: 0;
 -moz-border-radius: 0;
