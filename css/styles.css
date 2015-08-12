@@ -30,3 +30,9 @@ border-radius: 0;
   width:75%;
   margin:auto;
 }
+.content-light{
+  font-size: 16px;
+  font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+  width:75%;
+  margin:auto;
+}
